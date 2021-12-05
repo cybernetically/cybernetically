@@ -5,7 +5,7 @@
 ## about me.
 
 ![name](https://img.shields.io/static/v1?label=&message=Name%3A&color=111&style=flat-square)
-![name2](https://img.shields.io/static/v1?label=&message=Victor%20.&color=555&style=flat-square)
+![name2](https://img.shields.io/static/v1?label=&message=Victor%&color=555&style=flat-square)
 
 ![asl](https://img.shields.io/static/v1?label=&message=A%2FS%2FL%3A&color=111&style=flat-square)
 ![asl2](https://img.shields.io/static/v1?label=&message=white%2C%but%2C%gangmember&color=555&style=flat-square)
