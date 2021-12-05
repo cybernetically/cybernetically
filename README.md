@@ -8,7 +8,7 @@
 ![name2](https://img.shields.io/static/v1?label=&message=Victor&color=555&style=flat-square)
 
 ![asl](https://img.shields.io/static/v1?label=&message=A%2FS%2FL%3A&color=111&style=flat-square)
-![asl2](https://img.shields.io/static/v1?label=&message=white%2C%20but%2C%20gangmember&color=555&style=flat-square)
+![asl2](https://img.shields.io/static/v1?label=&message=white%20but%2C%20gangmember&color=555&style=flat-square)
 
 ![occupation](https://img.shields.io/static/v1?label=&message=Occupation%3A&color=111&style=flat-square)
 ![occupation2](https://img.shields.io/static/v1?label=&message=student%2C%20backend%20%20developer&color=555&style=flat-square)
